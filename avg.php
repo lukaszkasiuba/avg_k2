@@ -6,6 +6,6 @@ function srednia(int a, int b)
 
 function wsrednia(int a, int b)
 {
-	
+	echo siema;
 	return (7*a+3*b)/10;
 	?>
